@@ -1,0 +1,28 @@
+body {
+    background-color: #00539C;
+    color: #EEA47F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+#wrapper{
+    width: 50rem;
+    display: block;
+    text-align: center;
+}
+
+#quote-info, #quote-info > div, h1{
+    padding: 1rem;
+}
+
+:disabled {
+    background-color: black;
+}
+
+nav {
+    padding: 1rem
+}
+
