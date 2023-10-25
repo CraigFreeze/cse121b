@@ -6,7 +6,7 @@ let quoteAuthors = [];
 let quoteLength = [];
 let results = null;
 
-const url = 'http://quotable.io/random';
+const url = 'https://quotable.io/random';
 
 
 async function newQuote() {
